@@ -16,7 +16,7 @@ _Note: This is only a navigation guide for the specification, and does not defin
 ## Sections
 
 ### Title
-**Status:** Required.
+**Status:** Required
 
 -----
 # Title
