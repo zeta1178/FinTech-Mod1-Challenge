@@ -41,7 +41,7 @@ Within the last 5-10 years open banking has really taken off. Because its based 
 
 Major companies within the open banking space include Finicity (Mastercard), Token , and TrueLayer, while many other companies have a focus in a particular country. 
 
-![Diagram2](https://cdn2.hubspot.net/hubfs/4451076/Infographics/NDGIT-infographic-Open-Banking-key-threats-opportunities.pdf)
+![Diagram2](NDGIT-infographic-Open-Banking-key-threats-opportunities.png)
 
 ## Results
 
