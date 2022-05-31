@@ -17,7 +17,7 @@ FinTech-Mod1-Challenge - Open Banking - Case Study
 
 Open banking is a method by which companies are able to offer safe exchange between established banks and third party service providers. By using Application Programming Interfaces (API's), a service provider can integrate their payment, investment tool, or any applicable finance application with all banks.
 
-![Diagram](https://verifiedpayments.com/wp-content/uploads/2021/04/Blog1_illustration_2-11-2048x1504.png)
+![Diagram](Diagram1.png)
 
 This case study will focus on the company named TIBCO. TIBCO was founded in 1997 by Vivek Ranadive. The name was derived from a description of the company's initial product (The Information Bus Company). The product it initially offered was software designed to communicate the activities of the financial markets in real-time without any human interaction. The idea was founded on the enhanced use of APIs to unlock financial data. The company was originally a subsidiary of a venture capitalist firm called Reuters Holdings. TIBCO success also followed its inclusion as one of the initial partners with Microsoft to deliver "push" technology to provide news and data for free through internet browsers. From there it has continued to flourish and expand through acquisitions.
 
@@ -41,7 +41,7 @@ Within the last 5-10 years open banking has really taken off. Because its based 
 
 Major companies within the open banking space include Finicity (Mastercard), Token , and TrueLayer, while many other companies have a focus in a particular country. 
 
-![Diagram2](NDGIT-infographic-Open-Banking-key-threats-opportunities.png)
+![Diagram2](Diagram2.png)
 
 ## Results
 
