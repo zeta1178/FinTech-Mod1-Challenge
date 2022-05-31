@@ -65,5 +65,5 @@ The benefit to TIBCO in starting to offer
 
 ## Sources
 
-[TIBCO](https://www.tibco.com/reference-center/what-is-open-banking)
-[Verified Payments](https://verifiedpayments.com/blog/open-banking-history-definition-examples)
+[TIBCO](https://www.tibco.com/reference-center/what-is-open-banking)<br>
+[Verified Payments](https://verifiedpayments.com/blog/open-banking-history-definition-examples)<br>
