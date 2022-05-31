@@ -65,5 +65,15 @@ The benefit to TIBCO in starting to offer
 
 ## Sources
 
-[TIBCO](https://www.tibco.com/reference-center/what-is-open-banking)<br>
+[TIBCO 1](https://www.tibco.com/reference-center/what-is-open-banking)<br>
 [Verified Payments](https://verifiedpayments.com/blog/open-banking-history-definition-examples)<br>
+[Venture Radar](https://www.ventureradar.com/keyword/Open-Banking)<br>
+[Finicity](https://www.finicity.com/open-banking/?gclid=Cj0KCQjw1tGUBhDXARIsAIJx01mpIuKWzWEF6yHvF72Lskw1pk7XCXo0k2E4j2Aw6cpVvmXhDvi2QJoaAkNoEALw_wcB)<br>
+[Zippia](https://www.zippia.com/tibco-software-careers-41791/history/)<br>
+[TIBCO 2](https://www.tibco.com/resources/analyst-report/gartner-magic-quadrant-master-data-management-solutions)<br>
+[stackoverflow](https://stackoverflow.com/questions/23569242/how-tibco-is-useful-to-organizations-and-why-it-is-used/23571168#23571168)<br>
+[PwC](https://www.pwc.com/us/en/industries/financial-services/library/next-in-banking-capital-markets-trends.html?WT.mc_id=CT7-PL900-DM1-TR1-LS4-ND30-PRG7-CN_DataAndAnalyticsBuilds-NextInBakingCapitalMarketsTrendNativeNativo)<br>
+[Reuters](https://www.reuters.com/article/us-tibco-software-m-a-vistaequity-idUSKCN0HO11Y20140929)<br>
+[Wikipedia](https://en.wikipedia.org/wiki/TIBCO_Software)<br>
+[ndgit](https://ndgit.com/en/open-banking-key-threats-opportunities/)<br>
+
