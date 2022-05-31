@@ -64,3 +64,5 @@ The benefit to TIBCO in starting to offer
 * Why are these technologies appropriate for your solution?
 
 ## Sources
+
+[TIBCO](https://www.tibco.com/reference-center/what-is-open-banking)
