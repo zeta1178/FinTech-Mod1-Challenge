@@ -52,11 +52,11 @@ Banking institution are often taking account of their customers experiences thro
 The domain is still new and doesn't yet have a dominant company within the domain. TIBCO is performing well but it is still establishing itself with in the field.
 It also has the disadvantage of having to redefine itself from the company other efforts in data management.
 
-
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+If I were to advise the company I would suggest that they augment their current list of open banking services with machine learning. If the data was de-identified properly it could be marketed as additional product to their current customer base that is looking to analyze the trends of their banking audience. Currently, this exists only by combining the present offering with other tools. That integration could prove lengthy as well as expensive ofr many of TIBCO's customers.
 
+The benefit to TIBCO in starting to offer 
 * Why do you think that offering this product or service would benefit the company?
 
 * What technologies would this additional product or service utilize?
