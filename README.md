@@ -56,12 +56,9 @@ It also has the disadvantage of having to redefine itself from the company other
 
 If I were to advise the company I would suggest that they augment their current list of open banking services with machine learning. If the data was de-identified properly it could be marketed as additional product to their current customer base that is looking to analyze the trends of their banking audience. Currently, this exists only by combining the present offering with other tools. That integration could prove lengthy as well as expensive ofr many of TIBCO's customers.
 
-The benefit to TIBCO in starting to offer 
-* Why do you think that offering this product or service would benefit the company?
+The benefit to TIBCO in starting to offer machine learning is that the company can leverage data models over time to predict customer behavior. This would position the company to tailor future offering to that customer or open the door for developers to customize solutions based on customer trends. Over time the benefit would be to guarantee the long term success of the company.
 
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?
+The technologies involved in the additional product would be artificial intelligence and machine learning. They are appropriate for my solution because they analyze patterns in order to predict future behavior with a high degree of probability. TIBCO Open banking platform would have immediate access to a great deal of data and customer behavior patterns. Analysis of that data is the next logical step.
 
 ## Sources
 
