@@ -1,7 +1,7 @@
 # FinTech-Mod1-Challenge
 FinTech-Mod1-Challenge - Open Banking - Case Study
 
-## Table of Contents
+## Table of the Contents
 
 - [ ] [Sections](#sections)
   - [Overview and Origin](#title)
