@@ -75,3 +75,8 @@ The technologies involved in the additional product would be artificial intellig
 [Wikipedia](https://en.wikipedia.org/wiki/TIBCO_Software)<br>
 [ndgit](https://ndgit.com/en/open-banking-key-threats-opportunities/)<br>
 
+
+<img src="https://pngimg.com/uploads/penguin/pinguin_PNG2.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
+
