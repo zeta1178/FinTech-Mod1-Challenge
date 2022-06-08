@@ -74,9 +74,3 @@ The technologies involved in the additional product would be artificial intellig
 [Reuters](https://www.reuters.com/article/us-tibco-software-m-a-vistaequity-idUSKCN0HO11Y20140929)<br>
 [Wikipedia](https://en.wikipedia.org/wiki/TIBCO_Software)<br>
 [ndgit](https://ndgit.com/en/open-banking-key-threats-opportunities/)<br>
-
-
-<img src="https://pngimg.com/uploads/penguin/pinguin_PNG2.png"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
-
